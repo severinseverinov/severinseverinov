@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=severinseverinov" alt="severinseverinov" /></a> </p>
 
-- 🔭 I’m currently working on **patika.dev**
+- 🔭 I’m currently working on **lulecaravan.com**
 
-- 🌱 I’m currently learning **Angular and GO**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **java and python**
+- 💬 Ask me about **React, HTML and CSS**
 
 - 📫 How to reach me **severinseverinov@hotmail.com**
 
